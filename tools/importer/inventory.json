@@ -303,7 +303,7 @@
   ],
   "blocks": [
     {
-      "name": "Hero",
+      "name": "Fragment",
       "cluster": 1,
       "instances": [
         {
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "name": "Accordion",
+      "name": "Tabs",
       "cluster": 5,
       "instances": [
         {
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "name": "Carousel (multiple)",
+      "name": "Hero",
       "cluster": 9,
       "instances": [
         {
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "name": "Demo 3",
+      "name": "Tabs",
       "cluster": 11,
       "instances": [
         {
@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "name": "Carousel (multiple)",
+      "name": "Columns (two columns)",
       "cluster": 15,
       "instances": [
         {
@@ -1107,7 +1107,7 @@
       ]
     },
     {
-      "name": "Accordion",
+      "name": "Cards",
       "cluster": 16,
       "instances": [
         {
@@ -1281,7 +1281,7 @@
       ]
     },
     {
-      "name": "Hero",
+      "name": "Columns (two columns)",
       "cluster": 27,
       "instances": [
         {
@@ -1305,7 +1305,7 @@
       ]
     },
     {
-      "name": "Hero",
+      "name": "Columns (two columns)",
       "cluster": 29,
       "instances": [
         {
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "name": "Columns (two columns)",
+      "name": "Hero",
       "cluster": 31,
       "instances": [
         {
